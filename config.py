@@ -1,0 +1,3 @@
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+DB_DIRECTORY = "./db"
+DOCUMENTS_DIRECTORY = "./documents"
